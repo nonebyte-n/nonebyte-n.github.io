@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Markdown 写作指南</title>
+    <link href="/2026/07/10/Markdown-%E5%86%99%E4%BD%9C%E6%8C%87%E5%8D%97/"/>
+    <url>/2026/07/10/Markdown-%E5%86%99%E4%BD%9C%E6%8C%87%E5%8D%97/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Markdown-写作指南-📝"><a href="#Markdown-写作指南-📝" class="headerlink" title="Markdown 写作指南 📝"></a>Markdown 写作指南 📝</h1><p>Markdown 是一种轻量级标记语言，非常适合用于博客写作。</p><h2 id="常用语法"><a href="#常用语法" class="headerlink" title="常用语法"></a>常用语法</h2><h3 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h3><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs markdown"><span class="hljs-section"># 一级标题</span><br><span class="hljs-section">## 二级标题</span><br><span class="hljs-section">### 三级标题</span><br></code></pre></td></tr></table></figure><h3 id="文本样式"><a href="#文本样式" class="headerlink" title="文本样式"></a>文本样式</h3><ul><li><strong>加粗</strong> <code>**加粗**</code></li><li><em>斜体</em> <code>*斜体*</code></li><li><del>删除线</del> <code>~~删除线~~</code></li></ul><h3 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a>代码块</h3><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs markdown"><span class="hljs-code">```python</span><br><span class="hljs-code">def hello():</span><br><span class="hljs-code">    print(&quot;Hello, Markdown!&quot;)</span><br></code></pre></td></tr></table></figure><pre><code class="hljs">### 表格| 语法 | 效果 ||------|------|| `**粗体**` | **粗体** || `*斜体*` | *斜体* |### 引用&gt; 这是引用的内容## 在 Hexo 中使用直接将 `.md` 文件放在 `source/_posts/` 目录下即可，Hexo 会自动将其转换为 HTML 页面。</code></pre>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Markdown</tag>
+      
+      <tag>教程</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World - 我的第一篇博客</title>
+    <link href="/2026/07/10/Hello-World-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <url>/2026/07/10/Hello-World-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    
+    <content type="html"><![CDATA[<h1 id="你好，世界！🎉"><a href="#你好，世界！🎉" class="headerlink" title="你好，世界！🎉"></a>你好，世界！🎉</h1><p>这是我的第一篇博客，通过 <strong>Hexo</strong> 搭建，部署在 <strong>Gitee Pages</strong> 上。</p><h2 id="为什么写博客？"><a href="#为什么写博客？" class="headerlink" title="为什么写博客？"></a>为什么写博客？</h2><ul><li>📝 记录技术学习过程</li><li>💡 分享知识和经验</li><li>🌱 持续成长和进步</li></ul><h2 id="使用-Markdown-写作"><a href="#使用-Markdown-写作" class="headerlink" title="使用 Markdown 写作"></a>使用 Markdown 写作</h2><p>Hexo 支持标准的 Markdown 语法，比如：</p><ul><li><strong>粗体</strong> 和 <em>斜体</em></li><li><code>代码片段</code></li><li>列表和表格</li><li><a href="https://hexo.io/">链接</a></li></ul><blockquote><p>千里之行，始于足下。</p></blockquote><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;Hello, World!&quot;</span>)<br></code></pre></td></tr></table></figure><p>期待在这个博客上分享更多内容！🚀</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>生活</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>随笔</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
