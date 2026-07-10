@@ -1,0 +1,10 @@
+# Hexo
+public/
+*.log
+*.pid
+.DS_Store
+node_modules/
+db.json
+*.swp
+*.swo
+._*
